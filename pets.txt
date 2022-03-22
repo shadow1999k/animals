@@ -1,3 +1,5 @@
 chiko
 narnia
 magi
+moochi
+mocka
